@@ -91,5 +91,30 @@
 
 .box-text {
   text-align: center;
+  width: 160px;
   opacity: 80%;
+  margin-bottom: 125px;
+}
+
+.quote {
+  display: flex;
+  justify-content: center;
+  background-color: #e5e7eb;
+  
+}
+
+.quote-text {
+  font-size: 36px;
+  padding: 140px 0px 0px 0px;
+  
+  color: #1f2937;
+  
+  width: 800px;
+}
+
+.quote-caption {
+  display: flex;
+  justify-content: end;
+  font-weight: 700;
+  font-size: larger;
 }
